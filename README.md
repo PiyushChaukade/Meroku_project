@@ -1,12 +1,12 @@
-#**Packages Required**
+#PACKAGES REQUIRED**
 
-1. jsonwebtoken: Used for generating and verifying JSON Web Tokens (JWT).
+1. JSON web token: Used for generating and verifying JSON Web Tokens (JWT).
 
-2 .express: Popular web framework for Node.js used for building web applications and APIs.
+2. express: Popular web framework for Node.js used for building web applications and APIs.
 
 3. bcryptjs or bcrypt: Used for hashing passwords before storing them in the database.
 
-4 .dotenv: Used for loading environment variables from a .env file into process.env.
+4. dotenv: Used for loading environment variables from a .env file into process.env.
 
 5. body-parser: Middleware for parsing incoming request bodies in a middleware before your handlers, available under the req.body property.
 
