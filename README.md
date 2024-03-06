@@ -1,4 +1,4 @@
-#PACKAGES REQUIRED**
+# PACKAGES REQUIRED
 
 1. JSON web token: Used for generating and verifying JSON Web Tokens (JWT).
 
