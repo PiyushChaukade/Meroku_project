@@ -61,4 +61,6 @@ go to the browser and type (i.e (http://localhost:5000/Report))
 
 - The data we are fetching originates from Supabase, where I have been pushing data from [alchemy.com](https://www.alchemy.com/) for the last 1000 transactions.
 
+- You can also use [Deployed](https://meroku-project.onrender.com/Report) link instead of localhost link.
+
 
