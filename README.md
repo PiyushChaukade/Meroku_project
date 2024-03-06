@@ -57,4 +57,8 @@ go to the browser and type (i.e (http://localhost:5000/Report))
 
    ![image](https://github.com/PiyushChaukade/Meroku_project/assets/93372962/1ff8f092-5d71-4203-bd85-79e7cdf06c12)
 
+# NOTED 
+
+- The data we are fetching originates from Supabase, where I have been pushing data from [alchemy.com](https://www.alchemy.com/) for the last 1000 transactions.
+
 
